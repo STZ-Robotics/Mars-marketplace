@@ -1,0 +1,11 @@
+{
+  "registryVersion": "1.0",
+  "lastUpdated": "2026-03-15",
+  "verifiedFeatures": [
+    "https://raw.githubusercontent.com/Imcab/CTREPoseFinderFeature/main/MarsFeature.json",
+    "https://raw.githubusercontent.com/Imcab/UnitProcessor/main/MarsFeature.json",
+    "https://raw.githubusercontent.com/Imcab/MarsProcessor/main/MarsFeature.json",
+    "https://raw.githubusercontent.com/Imcab/DictionaryFeature/main/MarsFeature.json"
+    
+  ]
+}
