@@ -5,7 +5,8 @@
     "https://raw.githubusercontent.com/Imcab/CTREPoseFinderFeature/main/MarsFeature.json",
     "https://raw.githubusercontent.com/Imcab/UnitProcessor/main/MarsFeature.json",
     "https://raw.githubusercontent.com/Imcab/MarsProcessor/main/MarsFeature.json",
-    "https://raw.githubusercontent.com/Imcab/DictionaryFeature/main/MarsFeature.json"
+    "https://raw.githubusercontent.com/Imcab/DictionaryFeature/main/MarsFeature.json",
+    "https://raw.githubusercontent.com/STZ-Robotics/AdvantageKitBridge/refs/heads/main/MarsFeature.json"
     
   ]
 }
